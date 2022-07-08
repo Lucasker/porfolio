@@ -464,6 +464,11 @@ textarea.form-control {
   padding: 300px 0 200px;
   position: relative;
 }
+.hero-area .container .profil_img{
+  border-radius: 214px;
+  box-shadow: 7px 0px 9px 9px #000000c2;
+  
+}
 
 @media (max-width: 767px) {
   .hero-area {
@@ -637,6 +642,8 @@ textarea.form-control {
 /* portfolio */
 .hover-wrapper {
   overflow: hidden;
+  box-shadow: 1px 6px 9px #000000c2;
+
 }
 
 .hover-wrapper img {
