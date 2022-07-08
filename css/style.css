@@ -482,8 +482,8 @@ textarea.form-control {
   z-index: 2;
 }
 .hero-area .profil_img {
-  position: absolute;
-  z-index: 1;
+  position: relative;
+  z-index: 2;
 }
 
 .layer {
